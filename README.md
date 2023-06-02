@@ -25,5 +25,7 @@ For this project, I used the the following skills:
 >To have in mind: The webserver which is the json file to get the responses, may last a quite of time (about 3 o 5 seconds)
 
 ![GetPosts](https://github.com/ciscojuan/Routing/blob/main/src/assets/img/getPost.png?raw=true"
+
 ![GetPostsbyCategory](https://github.com/ciscojuan/Routing/blob/main/src/assets/img/getPosts-by-category.png?raw=true"
+
 ![GetPostsbyCategory](https://github.com/ciscojuan/Routing/blob/main/src/assets/img/getPosts-by-category-.png?raw=true"
