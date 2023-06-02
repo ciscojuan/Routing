@@ -23,3 +23,7 @@ For this project, I used the the following skills:
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="180" height="180"/> </a>
 
 >To have in mind: The webserver which is the json file to get the responses, may last a quite of time (about 3 o 5 seconds)
+
+![GetPosts](https://github.com/ciscojuan/Routing/blob/main/src/assets/img/getPost.png?raw=true"
+![GetPostsbyCategory](https://github.com/ciscojuan/Routing/blob/main/src/assets/img/getPosts-by-category.png?raw=true"
+![GetPostsbyCategory](https://github.com/ciscojuan/Routing/blob/main/src/assets/img/getPosts-by-category-.png?raw=true"
