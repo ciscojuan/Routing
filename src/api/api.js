@@ -1,7 +1,7 @@
 import axios from "axios"
 
 export const api = axios.create({
-    baseURL: "https://juan-e-commerce-api.onrender.com/db"
+    baseURL: "https://routing-api.onrender.com"
 })
 
 export const buscar = async (url, setData) => {
